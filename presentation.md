@@ -55,6 +55,9 @@ footer: "![h:40 opacity:.5](./img/vives.png) ![h:40 opacity:.5](./img/devbit_roc
 
 # Analysis
 
+> It's my way on the highway, I stand on my stripes.
+> -- Wim Helsen
+
 <!-- 
 - What are the constraints of the problem?
 - Which criteria are important, which are nice to have?
