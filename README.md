@@ -2,8 +2,8 @@
 
 ## Presentation
 
-HTML: [View](https://vives-projectweek-2022.github.io/presentation-template/presentation.html)
-PDF: [Download](https://vives-projectweek-2022.github.io/presentation-template/presentation.pdf)
+HTML: [View](https://pcordemans.github.io/presentation-template/presentation.html)
+PDF: [Download](https://pcordemans.github.io/presentation-template/presentation.pdf)
 
 ## Getting Started
 
