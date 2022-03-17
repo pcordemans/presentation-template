@@ -40,6 +40,9 @@ footer: "![h:40 opacity:.5](./img/vives.png) ![h:40 opacity:.5](./img/devbit_roc
 
 # Goal
 
+> Take it or leave it, at home!
+> -- Wim Helsen
+
 <!-- 
 - What is the main goal of the project?
 - What are secondary goals of the project?
